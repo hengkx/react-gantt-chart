@@ -1,0 +1,34 @@
+{
+  "name": "react-gantt-chart",
+  "version": "0.0.1",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hengkx/react-gantt-chart.git"
+  },
+  "keywords": [
+    "react",
+    "gantt"
+  ],
+  "author": {
+    "name": "Tom Xu",
+    "email": "ycxzhkx@gmail.com",
+    "url": "https://github.com/hengkx"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hengkx/react-gantt-chart/issues"
+  },
+  "homepage": "https://github.com/hengkx/react-gantt-chart#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
